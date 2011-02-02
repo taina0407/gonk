@@ -1,0 +1,14 @@
+{
+    "ami": {
+        "username": "admin",
+        "secret": "secret",
+        "ip_address": "127.0.0.1",
+        "port": 5038
+    },
+    "mongo": {
+        "db": "gonk",
+        "collection": "events",
+        "ip_address": "127.0.0.1",
+        "port": 27017
+    }
+}
